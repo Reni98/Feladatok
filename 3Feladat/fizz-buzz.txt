@@ -1,0 +1,6 @@
+  //Fizz Buzz feladat
+  //A számok 1-100-ig legyenek
+  //Ha a szám osztható 3-al akkor írja ki, hogy Fizz.
+  //Ha a szám osztható 5-el akkor írja ki, hogy Buzz.
+  //Ha 3-al és 5-el is osztható akkor azt írja ki, hogy Fizz Buzz.
+  //Legyen kiírva a többi szám is.
