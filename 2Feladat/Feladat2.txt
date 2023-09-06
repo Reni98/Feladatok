@@ -1,0 +1,5 @@
+  //Legyen egy random szám generátor 1-10-ig.
+  //Kérj be a felhasználótól 1-10-ig számot.
+  //Ha a két szám egyezik akkor írja ki, hogy nyert, ha nem egyezik, akkor azt írja ki, hogy vesztett.
+  //Addig kérje be a program a számot a felhasználótól ameddig nem nyer.
+ 
