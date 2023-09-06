@@ -1,0 +1,9 @@
+ 1.Feladat
+ //Készíts egy olyan konzol alkalmazást ami bekéri a felhasználótól,
+ //hogy melyik filmet válassza: Akció, Vigjáték, Animációs film.
+ //Majd kérdezze meg, hogy Diák vagy felnőt, ezt is kérje be az alkalmazás.
+ //Ha diák, akkor jelenjen meg a consolon, hogy 1500Ft a diák jegy ára
+ //Ha felnőt, akkor jelenjen meg a consolon, hogy 2000Ft a jegy ára.
+ //Addig kérjen be a felhasználótól a filmet, ameddig nem a feltételnek megfelelőt ír be a felhasználó.
+ //A végén pedig köszönjön el a program
+
